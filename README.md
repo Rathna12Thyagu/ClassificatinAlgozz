@@ -1,0 +1,2 @@
+# ClassificatinAlgozz
+All Classification Algorithms
